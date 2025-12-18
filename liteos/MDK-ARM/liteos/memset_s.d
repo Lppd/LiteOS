@@ -1,0 +1,10 @@
+liteos\memset_s.o: ..\Core\utils_native\base\src\securec\memset_s.c
+liteos\memset_s.o: ..\Core\utils_native\base\src\securec\securecutil.h
+liteos\memset_s.o: ../Core/utils_native/base/include/securec.h
+liteos\memset_s.o: ../Core/utils_native/base/include/securectype.h
+liteos\memset_s.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+liteos\memset_s.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+liteos\memset_s.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+liteos\memset_s.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+liteos\memset_s.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+liteos\memset_s.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h

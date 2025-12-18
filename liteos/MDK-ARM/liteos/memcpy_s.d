@@ -1,0 +1,10 @@
+liteos\memcpy_s.o: ..\Core\utils_native\base\src\securec\memcpy_s.c
+liteos\memcpy_s.o: ..\Core\utils_native\base\src\securec\securecutil.h
+liteos\memcpy_s.o: ../Core/utils_native/base/include/securec.h
+liteos\memcpy_s.o: ../Core/utils_native/base/include/securectype.h
+liteos\memcpy_s.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+liteos\memcpy_s.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+liteos\memcpy_s.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+liteos\memcpy_s.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+liteos\memcpy_s.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+liteos\memcpy_s.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
